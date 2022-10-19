@@ -17,7 +17,7 @@ csv_file = CONFIG_PATH_DATA["Processe"] + "country_who.csv"
 df = pd.read_csv(csv_file, encoding="utf-8", dtype=str)
 row, column = df.shape
 dt = df["day_stamp"].loc[0]
-print(row)
+
 txt = f'''
 Report WHO Monkey Pox Date : {dt}
 Row Total : {row}
