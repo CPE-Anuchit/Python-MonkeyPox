@@ -8,7 +8,7 @@ import urllib.parse
 
 # dt = datetime.now().strftime("%Y-%m-%d")
 
-token = "Hzi3uxycOCW67w0tAGzgTFNcHKfAuIiuBAVOEE66jfL"
+token = ""
 url = 'https://notify-api.line.me/api/notify'
 headers = {'content-type':'application/x-www-form-urlencoded','Authorization':'Bearer '+ token}
 
