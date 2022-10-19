@@ -7,9 +7,6 @@ import pyodbc
 # SET DATE
 dt = datetime.now().strftime("%Y-%m-%d")
 
-# Set table name
-table_name = "covid_case_sum_week"
-
 # Set path country_who.csv file
 csv_file = CONFIG_PATH_DATA["Processe"] + "country_who.csv"
 
