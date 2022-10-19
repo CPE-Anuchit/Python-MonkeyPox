@@ -1,0 +1,110 @@
+day_stamp,week,country,continent,confirmed_case,probable_case,death
+2022-10-17,42,United States of America,Region of the Americas,26834,0,2
+2022-10-17,42,Brazil,Region of the Americas,8521,537,5
+2022-10-17,42,Peru,Region of the Americas,2768,0,0
+2022-10-17,42,Colombia,Region of the Americas,2730,0,0
+2022-10-17,42,Mexico,Region of the Americas,2147,446,0
+2022-10-17,42,Canada,Region of the Americas,1411,90,0
+2022-10-17,42,Chile,Region of the Americas,1064,15,0
+2022-10-17,42,Argentina,Region of the Americas,524,0,0
+2022-10-17,42,Bolivia (Plurinational State of),Region of the Americas,226,0,0
+2022-10-17,42,Puerto Rico,Region of the Americas,191,0,0
+2022-10-17,42,Ecuador,Region of the Americas,185,1,1
+2022-10-17,42,Dominican Republic,Region of the Americas,52,1,0
+2022-10-17,42,Guatemala,Region of the Americas,43,4,0
+2022-10-17,42,Panama,Region of the Americas,16,0,0
+2022-10-17,42,Jamaica,Region of the Americas,14,0,0
+2022-10-17,42,El Salvador,Region of the Americas,10,0,0
+2022-10-17,42,Uruguay,Region of the Americas,9,0,0
+2022-10-17,42,Venezuela (Bolivarian Republic of),Region of the Americas,8,0,0
+2022-10-17,42,Costa Rica,Region of the Americas,7,0,0
+2022-10-17,42,Honduras,Region of the Americas,6,0,0
+2022-10-17,42,Cuba,Region of the Americas,4,0,1
+2022-10-17,42,Aruba,Region of the Americas,3,0,0
+2022-10-17,42,Curaçao,Region of the Americas,3,0,0
+2022-10-17,42,Bahamas,Region of the Americas,2,0,0
+2022-10-17,42,Guyana,Region of the Americas,2,0,0
+2022-10-17,42,Paraguay,Region of the Americas,2,0,0
+2022-10-17,42,Barbados,Region of the Americas,1,0,0
+2022-10-17,42,Martinique,Region of the Americas,1,0,0
+2022-10-17,42,Bermuda,Region of the Americas,1,0,0
+2022-10-17,42,Saint Martin,Region of the Americas,1,0,0
+2022-10-17,42,Guadeloupe,Region of the Americas,1,0,0
+2022-10-17,42,Spain,European Region,7239,0,2
+2022-10-17,42,France,European Region,4064,0,0
+2022-10-17,42,The United Kingdom,European Region,3654,0,0
+2022-10-17,42,Germany,European Region,3651,0,0
+2022-10-17,42,Netherlands,European Region,1223,0,0
+2022-10-17,42,Portugal,European Region,930,0,0
+2022-10-17,42,Italy,European Region,856,0,0
+2022-10-17,42,Belgium,European Region,779,0,1
+2022-10-17,42,Switzerland,European Region,521,0,0
+2022-10-17,42,Austria,European Region,320,0,0
+2022-10-17,42,Israel,European Region,254,0,0
+2022-10-17,42,Sweden,European Region,202,0,0
+2022-10-17,42,Ireland,European Region,198,0,0
+2022-10-17,42,Poland,European Region,196,0,0
+2022-10-17,42,Denmark,European Region,189,0,0
+2022-10-17,42,Norway,European Region,92,0,0
+2022-10-17,42,Greece,European Region,82,0,0
+2022-10-17,42,Hungary,European Region,78,0,0
+2022-10-17,42,Czechia,European Region,72,0,1
+2022-10-17,42,Luxembourg,European Region,55,0,0
+2022-10-17,42,Slovenia,European Region,47,0,0
+2022-10-17,42,Finland,European Region,41,0,0
+2022-10-17,42,Romania,European Region,41,0,0
+2022-10-17,42,Serbia,European Region,40,0,0
+2022-10-17,42,Malta,European Region,33,0,0
+2022-10-17,42,Croatia,European Region,29,0,0
+2022-10-17,42,Iceland,European Region,16,0,0
+2022-10-17,42,Slovakia,European Region,14,0,0
+2022-10-17,42,Türkiye,European Region,12,0,0
+2022-10-17,42,Estonia,European Region,11,0,0
+2022-10-17,42,Bosnia and Herzegovina,European Region,9,0,0
+2022-10-17,42,Bulgaria,European Region,6,0,0
+2022-10-17,42,Gibraltar,European Region,6,0,0
+2022-10-17,42,Latvia,European Region,6,0,0
+2022-10-17,42,Cyprus,European Region,5,0,0
+2022-10-17,42,Lithuania,European Region,5,0,0
+2022-10-17,42,Ukraine,European Region,5,0,0
+2022-10-17,42,Andorra,European Region,4,0,0
+2022-10-17,42,Monaco,European Region,3,0,0
+2022-10-17,42,Georgia,European Region,2,0,0
+2022-10-17,42,Greenland,European Region,2,0,0
+2022-10-17,42,Montenegro,European Region,2,0,0
+2022-10-17,42,Republic of Moldova,European Region,2,0,0
+2022-10-17,42,Russian Federation,European Region,2,0,0
+2022-10-17,42,San Marino,European Region,1,0,0
+2022-10-17,42,Nigeria,African Region,530,0,7
+2022-10-17,42,Democratic Republic of the Congo,African Region,200,0,0
+2022-10-17,42,Ghana,African Region,104,0,4
+2022-10-17,42,Central African Republic,African Region,10,0,0
+2022-10-17,42,Cameroon,African Region,8,0,2
+2022-10-17,42,Congo,African Region,5,0,0
+2022-10-17,42,South Africa,African Region,5,0,0
+2022-10-17,42,Benin,African Region,3,0,0
+2022-10-17,42,Liberia,African Region,3,0,0
+2022-10-17,42,Mozambique,African Region,1,0,0
+2022-10-17,42,Australia,Western Pacific Region,138,0,0
+2022-10-17,42,New Zealand,Western Pacific Region,23,0,0
+2022-10-17,42,Singapore,Western Pacific Region,19,0,0
+2022-10-17,42,Japan,Western Pacific Region,7,0,0
+2022-10-17,42,China1,Western Pacific Region,6,0,0
+2022-10-17,42,Philippines,Western Pacific Region,4,0,0
+2022-10-17,42,Republic of Korea,Western Pacific Region,2,0,0
+2022-10-17,42,New Caledonia,Western Pacific Region,1,0,0
+2022-10-17,42,Guam,Western Pacific Region,1,0,0
+2022-10-17,42,Viet Nam,Western Pacific Region,1,0,0
+2022-10-17,42,Sudan,Eastern Mediterranean Region,17,0,1
+2022-10-17,42,United Arab Emirates,Eastern Mediterranean Region,16,0,0
+2022-10-17,42,Lebanon,Eastern Mediterranean Region,14,0,0
+2022-10-17,42,Saudi Arabia,Eastern Mediterranean Region,8,0,0
+2022-10-17,42,Qatar,Eastern Mediterranean Region,5,0,0
+2022-10-17,42,Morocco,Eastern Mediterranean Region,3,0,0
+2022-10-17,42,Iran (Islamic Republic of),Eastern Mediterranean Region,1,0,0
+2022-10-17,42,Jordan,Eastern Mediterranean Region,1,0,0
+2022-10-17,42,Bahrain,Eastern Mediterranean Region,1,0,0
+2022-10-17,42,Egypt,Eastern Mediterranean Region,1,0,0
+2022-10-17,42,India,South-East Asia Region,12,0,1
+2022-10-17,42,Thailand,South-East Asia Region,10,0,0
+2022-10-17,42,Indonesia,South-East Asia Region,1,0,0
